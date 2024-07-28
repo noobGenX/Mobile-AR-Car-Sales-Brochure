@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: 25dcf191485ee6f48be6af55b72bc06e
+  - enabled: 1
+    path: Assets/Scenes/KameraAR.unity
+    guid: c62136ab41fe0a64a8f439d470a744de
+  - enabled: 1
+    path: Assets/Scenes/VideoAR.unity
+    guid: 2e1e6444b7e48c54aa8f3da047161888
+  - enabled: 1
+    path: Assets/Scenes/PetunjukPemakaian.unity
+    guid: 8e919c9734c51a54fab4560ff037bc81
+  - enabled: 1
+    path: Assets/Scenes/ProfilPerusahaan.unity
+    guid: 1ccec7c25d89f2d4fa6be1e2ac492254
+  - enabled: 1
+    path: Assets/Scenes/Harga.unity
+    guid: d5c12312baf52d247a2ca42eb279fa37
+  - enabled: 1
+    path: Assets/Scenes/PriceUltimate.unity
+    guid: eb33669d50126ef4f89bcb6b31261d3e
+  - enabled: 1
+    path: Assets/Scenes/KameraARScene.unity
+    guid: d95302afec3a1f643a505d0809936b03
+  - enabled: 1
+    path: Assets/Scenes/VideoARScene.unity
+    guid: b4a013a600a663e4abf011313925e9a5
+  - enabled: 1
+    path: Assets/Scenes/VideoARPajero.unity
+    guid: c28fe84ae28969345b424f17c188ce43
+  - enabled: 1
+    path: Assets/Scenes/KameraARPajero.unity
+    guid: 1ed604980001c184b8bb7ca4af3ffee5
+  - enabled: 1
+    path: Assets/Scenes/Brosur.unity
+    guid: fc8d6b109e458a742b83cdc265cc3740
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: f5a4952e608516b4fbdcf9cef454dc73,
+      type: 2}

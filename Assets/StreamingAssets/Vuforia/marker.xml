@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="brosur_pajero" size="20.000000 15.000000" />
+    <ImageTarget name="marker" size="25.000000 14.166667" />
+  </Tracking>
+</QCARConfig>
